@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pankaj Bhandari
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m completed data science
 - 💞️ I’m looking to collaborate on data analytics and stats
 - 📫 How to reach me pankajbhandari360@gmail.com
 
